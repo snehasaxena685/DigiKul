@@ -7,6 +7,7 @@ import numpy as np
 from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas
 
+print("All modules loaded successfully!")
 # ---------------------------
 # DB Setup
 # ---------------------------
